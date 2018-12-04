@@ -1,3 +1,3 @@
 # BMI
 
-[demo](https://www.google.com)
+[demo](https://original541029.github.io/BMI/index.html)
